@@ -1,0 +1,11 @@
+autopep8
+Django
+django-admin-thumbnails
+django-cors-headers
+django-rest-framework
+django-rest-swagger
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+Pillow
+python-decouple
